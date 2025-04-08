@@ -1,13 +1,8 @@
 Smart India Hackathon Workshop
-
-Date:08/04/2025
-
-Register Number: 212224040180
-
-Name: Magesh S
-
+Date:01.12.24
+Register Number: 24900267
+Name: G P HARIESH
 Problem Title
-
 Implementation of the Alumni Association platform for the University/Institute.
 
 Problem Description
@@ -65,21 +60,3 @@ MAPPING SERVICES - 15 to 30 days
 DATA COLLECTION - 20 to 30 days
 
 ESTIMATED BUDGET - Rs. 200000 to Rs. 300000
-
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
